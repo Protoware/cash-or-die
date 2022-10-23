@@ -11,9 +11,9 @@ def home(name: str, tokens: int, bread: int, cash: int, storage: int) -> str:
     
     option = Style.DIM + Fore.CYAN + "\n\n    Commands" + Fore.RESET + Style.RESET_ALL
     option2 = """
-    1 - Shop
+    1 - Belly's Shop
     2 - Mark's Casino
-    3 - Belly's Store
+    3 - Ikea
     """
     option3 = Style.BRIGHT + Fore.RED + "4 - Quit game" + Fore.RESET + "\n" + Style.RESET_ALL
 
