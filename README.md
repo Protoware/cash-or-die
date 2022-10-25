@@ -11,3 +11,8 @@ The project is open source so I really don't care what you do with it, I mostly 
 ## Installation
 
 You can download the .exe or the source, both works great. (not done yet)
+
+
+## Preview
+
+![home page](https://raw.githubusercontent.com/Protoware/cash-or-die/main/img/img1.png)
